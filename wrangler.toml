@@ -5,4 +5,4 @@ compatibility_date = "2024-09-23"
 [[d1_databases]]
 binding = "DB"
 database_name = "society-game"
-database_id = "REPLACE_WITH_YOUR_DATABASE_ID"
+database_id = "cfd28af0-c286-43c8-a8c6-75c8442ff95d"
